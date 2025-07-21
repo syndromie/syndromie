@@ -4,7 +4,7 @@
  </p>
 
 ```sh-session
-pip install syndromie
+pip install yuix
 ```
 <h1>PROFILE VIEWS;</h1>
 <p align="center"><img src="https://count.getloli.com/get/@:duhix" alt=":duhix" /></p>
